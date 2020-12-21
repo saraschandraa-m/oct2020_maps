@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MapFragment</string>
+
+    <string name="api_key">AIzaSyBeamprGD8i0L_ZXtEVUV99rfODkMHEMGs</string>
+</resources>
